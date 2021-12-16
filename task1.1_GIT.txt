@@ -1,0 +1,15 @@
+Valerik@DESKTOP-VS7SPQE MINGW64 ~/Project_GIT/DevOps_online_Zaporizhia_2021Q4/m1/task1.1 (master)
+$ git reflog
+54f2621 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+156bdb7 HEAD@{1}: checkout: moving from develop to master
+54f2621 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{2}: commit (merge): Conflict commit
+faf78e0 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+f37bce2 HEAD@{4}: checkout: moving from styles to develop
+a330458 (origin/styles, styles) HEAD@{5}: commit: Styles commit
+f37bce2 HEAD@{6}: checkout: moving from develop to styles
+f37bce2 HEAD@{7}: checkout: moving from images to develop
+faf78e0 (origin/images, images) HEAD@{8}: commit: Images commit
+f37bce2 HEAD@{9}: checkout: moving from develop to images
+f37bce2 HEAD@{10}: commit: Index commit
+156bdb7 HEAD@{11}: checkout: moving from master to develop
+156bdb7 HEAD@{12}: commit (initial): Init commit
